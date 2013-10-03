@@ -10,7 +10,7 @@ http://qiita.com/items/c9f3d8ca69a4ab0b27cb
 
 2. MySQLに、データベースを作成
 ---------------------------------------------
-mysql> create database rensou;
+mysql> create database rensou default character set utf8;
 
 mysql> use rensou
 
